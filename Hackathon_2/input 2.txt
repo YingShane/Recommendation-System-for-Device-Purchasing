@@ -1,0 +1,11 @@
+Galaxy Z Fold3	Samsung	7100	Octa-core	2.84 Kyro	256	12	12	10	4400
+Galaxy Z Flip3	Samsung	4200	Octa-core	2.95 Kyro	128	8	12	10	3300
+Galaxy Note20	Samsung	4100	Octa-core	2.73 Mongoose M5	256	12	12	10	4500
+Galaxy S21 Ultra	Samsung	5000	Octa-core	2.9 Cortex-X1	128	12	12	4	4300
+Galaxy S20 FE	Samsung	2000	Octa-core	2.73 Mongoose M5	128	8	12	3	4500
+Y54s	Vivo	1699	Octa-core	2.2 Cortex-A76	128	6	13	8	5000
+S10e	Vivo	1749	Octa-core	2.4 Cortex-A78	128	8	8	32	4000
+iPhone 13 Pro Max	Apple	6000	Hexa-core	3.22 Avalanche	128	16	12	12	4352
+iPhone 13 Pro	Apple	4200	Hexa-core	3.22 Avalanche	128	16	12	12	3095
+Xperia Pro-I	Sony	7200	Octa-core	2.84 Kryo	512	12	12	8	4500
+Xperia 5-III	Sony	4600	Octa-core	2.84 Kryo	128	8	12	8	4500
